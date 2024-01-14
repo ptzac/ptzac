@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Piotr Zaczek</h1>
-- 🌱 I’m currently learning **Python, SQL, LTE**
+<h1 align="left">Hi 👋, I'm Piotr Zaczek</h1>
+🌱 I’m currently learning <b>Python & Testing</b>
 
-- 📫 How to reach me **piotr.zaczek98@gmail.com**
+📫 How to reach me <b>piotr.zaczek98@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
